@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <name>finance-wallet-back-end</name>
-    <groupId>com.financewallet.backend</groupId>
+    <groupId>com.financewallet</groupId>
     <artifactId>finance-wallet-back-end</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
